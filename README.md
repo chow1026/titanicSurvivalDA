@@ -1,6 +1,5 @@
 
-<snippet>
-  <content><![CDATA[
+
 # ${1:Project Name}
 
 This is a repo for the Introduction to Data Analysis project.  The project is part of the Udacity Data Analyst NanoDegree program.  The project was done using iPython Jupyter Notebook.  
@@ -12,7 +11,7 @@ There is no python virtual environment needed.  Just follow the [Anaconda Jupyte
 
 ## Usage
 
-There is no particular intended usage for these code.  It is mainly a repo for history of work. 
+There is no particular intended usage for these code.  It is mainly a repo for history of work.
 
 ## Contributing
 
@@ -24,10 +23,8 @@ Histories of project submissions were kept as different directory named accordin
 
 ## Credits
 
-
+N/A
 
 ## License
 
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
+N/A
