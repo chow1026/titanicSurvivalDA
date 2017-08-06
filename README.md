@@ -1,5 +1,4 @@
 
-
 # Udacity Data Analyst NanoDegree - Introduction to Data Analysis
 
 ## Summary
