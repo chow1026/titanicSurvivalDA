@@ -1,7 +1,8 @@
 
 
-# ${1:Project Name}
+# Udacity Data Analyst NanoDegree - Introduction to Data Analysis
 
+## Summary
 This is a repo for the Introduction to Data Analysis project.  The project is part of the Udacity Data Analyst NanoDegree program.  The project was done using iPython Jupyter Notebook.  
 
 
